@@ -1,0 +1,26 @@
+Circuit: * Z:\home\sebastian\Documentos\Utn\4to\tcII\Tp1\ej1_a.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+
+Date: Sun Apr 18 20:28:03 2021
+Total elapsed time: 0.029 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 151
+traniter = 148
+tranpoints = 75
+accept = 75
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 186 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
+

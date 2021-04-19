@@ -1,0 +1,12 @@
+* Z:\home\sebastian\Documentos\Utn\4to\tcII\Tp1\ej1_a.asc
+R1 N001 N002 10K
+R2 N002 N003 10MEG
+R3 N003 V2 10Meg
+R4 N003 0 10MEG
+RC V2 0 10Meg
+V1 N001 0 1
+XU1 N002 0 V2 opamp Aol=100K GBW=10Meg
+.inc opamp.sub
+.tran 0 0.5 0 0.01
+.backanno
+.end
